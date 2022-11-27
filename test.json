@@ -1,0 +1,63 @@
+{
+  "code": 5,
+  "music.search.SearchCgiService": {
+    "data": {
+      "body": {
+        "song": {
+          "list": [
+            {
+              "act": 3,
+              "album": {
+                "id": 85650,
+                "mid": "003KNcyk0t3mwg",
+                "name": "惊叹号",
+                "pmid": "003KNcyk0t3mwg_1",
+                "subtitle": "",
+                "time_public": "",
+                "title": "惊叹号"
+              },
+              "id": 1023644,
+              "mid": "0040Dgn94YNWxA",
+              "singer": [
+                {
+                  "id": 4558,
+                  "mid": "0025NhlN2yWrP4",
+                  "name": "周杰伦",
+                  "pmid": "",
+                  "title": "周杰伦",
+                  "type": 0,
+                  "uin": 0
+                }
+              ]
+            },
+            {
+              "act": 3,
+              "album": {
+                "id": 85650,
+                "mid": "003KNcyk0t3mwg",
+                "name": "惊叹号",
+                "pmid": "003KNcyk0t3mwg_1",
+                "subtitle": "",
+                "time_public": "",
+                "title": "惊叹号"
+              },
+              "id": 1023644,
+              "mid": "0040Dgn94YNWxA",
+              "singer": [
+                {
+                  "id": 4558,
+                  "mid": "0025NhlN2yWrP4",
+                  "name": "周杰伦",
+                  "pmid": "",
+                  "title": "周杰伦",
+                  "type": 0,
+                  "uin": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}
